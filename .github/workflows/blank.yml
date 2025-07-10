@@ -38,9 +38,9 @@ jobs:
         
         
          
-        #git clone https://github.com/sbwml/luci-app-quickfile.git ./tmp
-        #mv ./tmp/* ./
-        #rm -rf ./tmp
+        git clone https://github.com/sbwml/luci-app-quickfile.git ./tmp
+        mv ./tmp/* ./
+        rm -rf ./tmp
         
         
         
